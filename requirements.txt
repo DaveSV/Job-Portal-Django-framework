@@ -1,0 +1,12 @@
+django
+pylint
+autopep8
+django-crispy-forms
+django
+pylint
+autopep8
+gunicorn
+Django
+psycopg2-binary
+python-dotenv
+whitenoise
